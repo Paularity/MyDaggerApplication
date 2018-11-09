@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="button_submit">Submit</string>
+    <string name="input_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="label_second_activity">Welcome to Second Activity</string>
+    <string name="label_main_activity">Welcome to Main Activity</string>
+    <string name="label_headline_fragment">Headline Fragment</string>
+    <string name="label_article_fragment">Article Fragment</string>
+    <string name="label_home_fragment">Home Fragment</string>
+    <string name="label_first_fragment">First Fragment</string>
+    <string name="label_second_fragment">Second Fragment</string>
+    <string name="label_third_fragment">Third Fragment</string>
+    <string name="button_previous">Previous</string>
+    <string name="default_int">0</string>
+    <string name="button_restart">Restart</string>
+    <string name="label_search_fragment">Search</string>
+    <string name="label_notifications_fragment">Notifications</string>
+    <string name="label_profile_fragement">Profile</string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+    <string name="active">Active</string>
+</resources>

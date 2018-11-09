@@ -1,0 +1,46 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:tag="ACTIVE_TAB_FRAGMENT"
+    android:background="@color/white"
+    >
+
+    <TextView
+        android:id="@+id/textViewHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Want to see who's active?"
+        android:textSize="@dimen/normal_size"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:text="To see who's active now, start a conversation with someone new or invite friends to join Messenger."
+        android:textSize="@dimen/small_size"
+        />
+
+    <Button
+        android:background="@color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:text="INVITE PEOPLE"
+        android:textSize="@dimen/small_size"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
